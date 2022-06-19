@@ -1,4 +1,4 @@
-ABSTRACT
+ABSTRACT   tt
 Marking attendance has been one of the most important way to record and track the presence 
 of students in schools, colleges. Attendance marking in different forms has been in use in 
 various organization to record the presence of their human resource. This helps the organization in generating their month-end payroll, and other activities.
